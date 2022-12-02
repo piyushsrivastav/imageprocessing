@@ -1,2 +1,2 @@
 # imageprocessing
-Image processing using OPENCV
+Image processing using YOLO and OPENCV
